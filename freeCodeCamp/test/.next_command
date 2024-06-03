@@ -155,3 +155,4 @@ mv header.png ..
 ls --color=auto
 cd we
 cd ..
+ls --color=auto
