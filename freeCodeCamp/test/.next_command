@@ -156,3 +156,4 @@ ls --color=auto
 cd we
 cd ..
 ls --color=auto
+find -name images
