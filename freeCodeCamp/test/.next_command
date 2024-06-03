@@ -231,3 +231,4 @@ mv website-boilerplate
 mv website-boilerplate
 mv --help
 mv website website-boilerplate
+ls --color=auto
