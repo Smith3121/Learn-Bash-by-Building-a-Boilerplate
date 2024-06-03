@@ -177,3 +177,4 @@ find -name CodeAlly.svg
 ls --color=auto client/assets/icons/
 ls --color=auto
 mv CodeRoad.svg client/assets/icons/
+mv freeCodeCamp.svg client/assets/icons/
