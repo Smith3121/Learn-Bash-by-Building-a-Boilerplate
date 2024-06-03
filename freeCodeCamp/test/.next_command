@@ -79,3 +79,8 @@ touch background.jpg
 touch header.png
 touch footer.jpeg
 ls --color=auto
+ls --color=auto
+remove background.kpg
+rm background.kpg
+ls --color=auto
+touch roboto.font
