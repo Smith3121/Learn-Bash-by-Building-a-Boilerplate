@@ -143,3 +143,4 @@ find -name client/src/
 find -name src
 find
 cd client/
+mkdir assets
