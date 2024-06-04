@@ -427,3 +427,10 @@ git restore -a
 git status
 git pull
 git commit -a
+git pull
+ls --color=auto
+cd freeCodeCamp/
+ls --color=auto
+git add freeCodeCamp/test/.cwd freeCodeCamp/test/.next_command
+cd ..
+git add freeCodeCamp/test/.cwd freeCodeCamp/test/.next_command
