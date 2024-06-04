@@ -437,3 +437,6 @@ git add freeCodeCamp/test/.cwd freeCodeCamp/test/.next_command
 git commit -m "Commit staged changes"
 git pull
 git add -f freeCodeCamp/test/.cwd freeCodeCamp/test/.next_command
+git commit -m "Force commit staged changes"
+git pull
+git add -A
