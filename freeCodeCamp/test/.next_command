@@ -442,3 +442,6 @@ git pull
 git add -A
 git pull
 git add -f freeCodeCamp/test/.cwd freeCodeCamp/test/.next_command
+git commit -m "Force commit staged changes"
+git pull
+ls --color=auto
