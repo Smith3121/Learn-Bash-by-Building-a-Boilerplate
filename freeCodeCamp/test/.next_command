@@ -422,3 +422,8 @@ git status
 git commit
 git status
 git commit -a
+git status
+git restore -a
+git status
+git pull
+git commit -a
