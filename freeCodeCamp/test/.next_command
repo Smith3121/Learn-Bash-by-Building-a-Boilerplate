@@ -418,3 +418,7 @@ git add freeCodeCamp/test/.cwd
 git add freeCodeCamp/test/.next_command
 git status
 git add .
+git status
+git commit
+git status
+git commit -a
