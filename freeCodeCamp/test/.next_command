@@ -410,3 +410,11 @@ git pull
 git push --help
 git log
 git add --all
+git commit
+git push -u
+git pull
+git status
+git add freeCodeCamp/test/.cwd
+git add freeCodeCamp/test/.next_command
+git status
+git add .
